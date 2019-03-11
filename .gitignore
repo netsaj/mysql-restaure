@@ -1,0 +1,17 @@
+
+\.DS_Store
+
+build\.xml
+
+build/
+
+README\.md
+
+nbproject/private/
+
+nbproject/
+
+manifest\.mf
+
+dist/
+.DS_Store
